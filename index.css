@@ -1,0 +1,10 @@
+.container{
+    text-align: left;
+    width: 900px;
+}
+.col-sm-2{
+    color: blue;
+}
+.row{
+    margin-top: 10px;
+}
